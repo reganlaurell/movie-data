@@ -1,6 +1,6 @@
 {
-	"Marvel Cinematic Universe" : {
-		"Iron Man": {
+	"series" : {
+		"Iron Man": [
 			"movie_id" : 1,
 			"title" : "Iron Man",
 			"phase" : "Phase One: Avengers Assembled",
@@ -17,7 +17,7 @@
 			"budget" : "140,000,000",
 			"gross" : "318,298,180",
 			"time_stamp" : "2015-05-03"
-		},
+		],
 		"The Incredible Hulk": {
 			"movie_id" : 2,
 			"title" : "The Incredible Hulk",

@@ -2,7 +2,7 @@
 	"series": [
 		{
 			"movie_id" : 1,
-            "chronological_id" : 3,
+			"chronological_id" : 3,
 			"title" : "Iron Man",
 			"phase" : "Phase One: Avengers Assembled",
 			"category_name" : "Action",
@@ -18,10 +18,10 @@
 			"budget" : "140,000,000",
 			"gross" : "318,298,180",
 			"time_stamp" : "2022-02-5"
-        },
+		},
 		{
 			"movie_id" : 2,
-            "chronological_id" : 5,
+			"chronological_id" : 5,
 			"title" : "The Incredible Hulk",
 			"phase" : "Phase One: Avengers Assembled",
 			"category_name" : "Action",
@@ -40,7 +40,7 @@
 		},
 		{
 			"movie_id" : 3,
-            "chronological_id" : 4,
+			"chronological_id" : 4,
 			"title" : "Iron Man 2",
 			"phase" : "Phase One: Avengers Assembled",
 			"category_name" : "Action",
@@ -59,7 +59,7 @@
 		},
 		{
 			"movie_id" : 4,
-            "chronological_id" : 6,
+			"chronological_id" : 6,
 			"title" : "Thor",
 			"phase" : "Phase One: Avengers Assembled",
 			"category_name" : "Action",
@@ -78,7 +78,7 @@
 		},
 		{
 			"movie_id" : 5,
-            "chronological_id" : 1,
+			"chronological_id" : 1,
 			"title" : "Captain America: The First Avenger",
 			"phase" : "Phase One: Avengers Assembled",
 			"category_name" : "Action",
@@ -94,13 +94,13 @@
 			"budget" : "140,000,000",
 			"gross" : "176,636,816",
 			"time_stamp" : "2022-02-5"
-
+			
 		},
 		{
 			"movie_id" : 6,
 			"chronological_id" : 7,
 			"title" : "The Avengers",		
-        	"phase" : "Phase One: Avengers Assembled",
+			"phase" : "Phase One: Avengers Assembled",
 			"category_name" : "Science Fiction",
 			"release_year" : 2012,
 			"running_time" : 143,
@@ -117,7 +117,7 @@
 		},
 		{
 			"movie_id" : 7,
-            "chronological_id" : 9,
+			"chronological_id" : 9,
 			"title" : "Iron Man 3",
 			"phase" : "Phase Two",
 			"category_name" : "Action",
@@ -136,7 +136,7 @@
 		},
 		{
 			"movie_id" : 8,
-            "chronological_id" : 8,
+			"chronological_id" : 8,
 			"title" : "Thor: The Dark World",
 			"phase" : "Phase Two",
 			"category_name" : "Science Fiction",
@@ -155,7 +155,7 @@
 		},
 		{
 			"movie_id" : 9,
-            "chronological_id" : 10,
+			"chronological_id" : 10,
 			"title" : "Captain America: The Winter Soldier",
 			"phase" : "Phase Two",
 			"edition" : "Blu-ray Edition",
@@ -174,7 +174,7 @@
 		},
 		{
 			"movie_id" : 10,
-            "chronological_id" : 11,
+			"chronological_id" : 11,
 			"title" : "Guardians of the Galaxy",
 			"phase" : "Phase Two",
 			"category_name" : "Science Fiction",
@@ -193,7 +193,7 @@
 		},
 		{
 			"movie_id" : 11,
-            "chronological_id" : 13,
+			"chronological_id" : 13,
 			"title" : "Avengers: Age of Ultron",
 			"phase" : "Phase Two",
 			"category_name" : "Science Fiction",
@@ -212,7 +212,7 @@
 		},
 		{
 			"movie_id" : 12,
-            "chronological_id" : 14,
+			"chronological_id" : 14,
 			"title" : "Ant-Man",
 			"phase" : "Phase Two",
 			"category_name" : "Science Fiction",
@@ -231,7 +231,7 @@
 		},
 		{
 			"movie_id" : 13,
-            "chronological_id" : 15,
+			"chronological_id" : 15,
 			"title" : "Captain America: Civil War",
 			"phase" : "Phase Three",
 			"category_name" : "Science Fiction",
@@ -250,7 +250,7 @@
 		},
 		{
 			"movie_id" : 14,
-            "chronological_id" : 20,
+			"chronological_id" : 20,
 			"title" : "Doctor Strange",
 			"phase" : "Phase Three",
 			"category_name" : "Science Fiction",
@@ -269,7 +269,7 @@
 		},
 		{
 			"movie_id" : 15,
-            "chronological_id" : 12,
+			"chronological_id" : 12,
 			"title" : "Guardians of the Galaxy Vol. 2",
 			"phase" : "Phase Three",
 			"category_name" : "Science Fiction",
@@ -288,7 +288,7 @@
 		},
 		{
 			"movie_id" : 16,
-            "chronological_id" : 17,
+			"chronological_id" : 17,
 			"title" : "Spider-Man: Homecoming",
 			"phase" : "Phase Three",
 			"category_name" : "Science Fiction",
@@ -307,7 +307,7 @@
 		},
 		{
 			"movie_id" : 17,
-            "chronological_id" : 19,
+			"chronological_id" : 19,
 			"title" : "Thor: Ragnarok",
 			"phase" : "Phase Three",
 			"category_name" : "Science Fiction",
@@ -326,7 +326,7 @@
 		},
 		{
 			"movie_id" : 18,
-            "chronological_id" : 18,
+			"chronological_id" : 18,
 			"title" : "Black Panther",
 			"phase" : "Phase Three",
 			"category_name" : "Science Fiction",
@@ -345,7 +345,7 @@
 		},
 		{
 			"movie_id" : 19,
-            "chronological_id" : 22,
+			"chronological_id" : 22,
 			"title" : "Avengers: Infinity War",
 			"phase" : "Phase Three",
 			"category_name" : "Science Fiction",
@@ -364,7 +364,7 @@
 		},
 		{
 			"movie_id" : 20,
-            "chronological_id" : 21,
+			"chronological_id" : 21,
 			"title" : "Ant-Man and the Wasp",
 			"phase" : "Phase Three",
 			"category_name" : "Science Fiction",
@@ -381,7 +381,7 @@
 			"gross" : "tbd",
 			"time_stamp" : "2022-02-5"
 		},
-        {
+		{
 			"movie_id" : 21,
 			"chronological_id" : 2,
 			"title" : "Captain Marvel",
@@ -550,5 +550,5 @@
 			"release_date" : "November 11, 2022",
 			"time_stamp" : "2022-02-5"
 		}
-    ]
+	]
 }

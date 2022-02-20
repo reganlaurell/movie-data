@@ -1,7 +1,8 @@
 {
 	"series": [
 		{
-			"movie_id" : 1,
+			"movie_id" : 1726, 
+			"release_id": 1,
 			"chronological_id" : 3,
 			"title" : "Iron Man",
 			"phase" : "Phase One: Avengers Assembled",
@@ -20,7 +21,8 @@
 			"time_stamp" : "2022-02-5"
 		},
 		{
-			"movie_id" : 2,
+			"movie_id" : 1724, 
+			"release_id": 2,
 			"chronological_id" : 5,
 			"title" : "The Incredible Hulk",
 			"phase" : "Phase One: Avengers Assembled",
@@ -39,7 +41,8 @@
 			"time_stamp" : "2022-02-5"
 		},
 		{
-			"movie_id" : 3,
+			"movie_id" : 10138, 
+			"release_id": 3,
 			"chronological_id" : 4,
 			"title" : "Iron Man 2",
 			"phase" : "Phase One: Avengers Assembled",
@@ -58,7 +61,8 @@
 			"time_stamp" : "2022-02-5"
 		},
 		{
-			"movie_id" : 4,
+			"movie_id" : 10195, 
+			"release_id": 4,
 			"chronological_id" : 6,
 			"title" : "Thor",
 			"phase" : "Phase One: Avengers Assembled",
@@ -77,7 +81,8 @@
 			"time_stamp" : "2022-02-5"
 		},
 		{
-			"movie_id" : 5,
+			"movie_id" : 1771, 
+			"release_id": 5,
 			"chronological_id" : 1,
 			"title" : "Captain America: The First Avenger",
 			"phase" : "Phase One: Avengers Assembled",
@@ -97,7 +102,8 @@
 			
 		},
 		{
-			"movie_id" : 6,
+			"movie_id" : 24428, 
+			"release_id": 6,
 			"chronological_id" : 7,
 			"title" : "The Avengers",		
 			"phase" : "Phase One: Avengers Assembled",
@@ -116,7 +122,8 @@
 			"time_stamp" : "2022-02-5"
 		},
 		{
-			"movie_id" : 7,
+			"movie_id" : 68721, 
+			"release_id": 7,
 			"chronological_id" : 9,
 			"title" : "Iron Man 3",
 			"phase" : "Phase Two",
@@ -135,7 +142,8 @@
 			"time_stamp" : "2022-02-5"
 		},
 		{
-			"movie_id" : 8,
+			"movie_id" : 76338, 
+			"release_id": 8,
 			"chronological_id" : 8,
 			"title" : "Thor: The Dark World",
 			"phase" : "Phase Two",
@@ -154,7 +162,8 @@
 			"time_stamp" : "2022-02-5"
 		},
 		{
-			"movie_id" : 9,
+			"movie_id" : 100402, 
+			"release_id": 9,
 			"chronological_id" : 10,
 			"title" : "Captain America: The Winter Soldier",
 			"phase" : "Phase Two",
@@ -173,7 +182,8 @@
 			"time_stamp" : "2022-02-5"
 		},
 		{
-			"movie_id" : 10,
+			"movie_id" : 118340, 
+			"release_id": 10,
 			"chronological_id" : 11,
 			"title" : "Guardians of the Galaxy",
 			"phase" : "Phase Two",
@@ -192,7 +202,8 @@
 			"time_stamp" : "2022-02-5"
 		},
 		{
-			"movie_id" : 11,
+			"movie_id" : 99861, 
+			"release_id": 11,
 			"chronological_id" : 13,
 			"title" : "Avengers: Age of Ultron",
 			"phase" : "Phase Two",
@@ -211,7 +222,8 @@
 			"time_stamp" : "2022-02-5"
 		},
 		{
-			"movie_id" : 12,
+			"movie_id" : 102899, 
+			"release_id": 12,
 			"chronological_id" : 14,
 			"title" : "Ant-Man",
 			"phase" : "Phase Two",
@@ -230,7 +242,8 @@
 			"time_stamp" : "2022-02-5"
 		},
 		{
-			"movie_id" : 13,
+			"movie_id" : 271110, 
+			"release_id": 13,
 			"chronological_id" : 15,
 			"title" : "Captain America: Civil War",
 			"phase" : "Phase Three",
@@ -249,7 +262,8 @@
 			"time_stamp" : "2022-02-5"
 		},
 		{
-			"movie_id" : 14,
+			"movie_id" : 284052, 
+			"release_id": 14,
 			"chronological_id" : 20,
 			"title" : "Doctor Strange",
 			"phase" : "Phase Three",
@@ -268,7 +282,8 @@
 			"time_stamp" : "2022-02-5"
 		},
 		{
-			"movie_id" : 15,
+			"movie_id" : 283995, 
+			"release_id": 15,
 			"chronological_id" : 12,
 			"title" : "Guardians of the Galaxy Vol. 2",
 			"phase" : "Phase Three",
@@ -287,7 +302,8 @@
 			"time_stamp" : "2022-02-5"
 		},
 		{
-			"movie_id" : 16,
+			"movie_id" : 315635, 
+			"release_id": 16,
 			"chronological_id" : 17,
 			"title" : "Spider-Man: Homecoming",
 			"phase" : "Phase Three",
@@ -306,7 +322,8 @@
 			"time_stamp" : "2022-02-5"
 		},
 		{
-			"movie_id" : 17,
+			"movie_id" : 284053, 
+			"release_id": 17,
 			"chronological_id" : 19,
 			"title" : "Thor: Ragnarok",
 			"phase" : "Phase Three",
@@ -325,7 +342,8 @@
 			"time_stamp" : "2022-02-5"
 		},
 		{
-			"movie_id" : 18,
+			"movie_id" : 284054, 
+			"release_id": 18,
 			"chronological_id" : 18,
 			"title" : "Black Panther",
 			"phase" : "Phase Three",
@@ -344,7 +362,8 @@
 			"time_stamp" : "2022-02-5"
 		},
 		{
-			"movie_id" : 19,
+			"movie_id" : 299536, 
+			"release_id": 19,
 			"chronological_id" : 22,
 			"title" : "Avengers: Infinity War",
 			"phase" : "Phase Three",
@@ -363,7 +382,8 @@
 			"time_stamp" : "2022-02-5"
 		},
 		{
-			"movie_id" : 20,
+			"movie_id" : 363088, 
+			"release_id": 20,
 			"chronological_id" : 21,
 			"title" : "Ant-Man and the Wasp",
 			"phase" : "Phase Three",
@@ -382,7 +402,8 @@
 			"time_stamp" : "2022-02-5"
 		},
 		{
-			"movie_id" : 21,
+			"movie_id" : 299537, 
+			"release_id": 21,
 			"chronological_id" : 2,
 			"title" : "Captain Marvel",
 			"phase" : "Phase Three",
@@ -401,7 +422,8 @@
 			"time_stamp" : "2022-02-5"
 		}, 
 		{
-			"movie_id" : 22,
+			"movie_id" : 299534, 
+			"release_id": 22,
 			"chronological_id" : 23,
 			"title" : "Avengers: Endgame",
 			"phase" : "Phase Three",
@@ -418,7 +440,8 @@
 			"time_stamp" : "2022-02-5"
 		},
 		{
-			"movie_id" : 23,
+			"movie_id" : 429617, 
+			"release_id": 23,
 			"chronological_id" : 24,
 			"title" : "Spider-Man: Far From Home",
 			"phase" : "Phase Three",
@@ -435,7 +458,8 @@
 			"time_stamp" : "2022-02-5"
 		},
 		{
-			"movie_id" : 24,
+			"movie_id" : 497698, 
+			"release_id": 24,
 			"chronological_id" : 16,
 			"title" : "Black Widow",
 			"phase" : "Phase Four",
@@ -452,7 +476,8 @@
 			"time_stamp" : "2022-02-5"
 		},
 		{
-			"movie_id" : 25,
+			"movie_id" : 566525, 
+			"release_id": 25,
 			"chronological_id" : 25,
 			"title" : "Shang-Chi and the Legend of the Ten Rings",
 			"phase" : "Phase Four",
@@ -469,7 +494,8 @@
 			"time_stamp" : "2022-02-5"
 		},
 		{
-			"movie_id" : 26,
+			"movie_id" : 524434, 
+			"release_id": 26,
 			"chronological_id" : 26,
 			"title" : "Eternals",
 			"phase" : "Phase Four",
@@ -486,7 +512,8 @@
 			"time_stamp" : "2022-02-5"
 		},
 		{
-			"movie_id" : 27,
+			"movie_id" : 634649, 
+			"release_id": 27,
 			"chronological_id" : 27,
 			"title" : "Spider-Man: No Way Home",
 			"phase" : "Phase Four",
@@ -503,7 +530,8 @@
 			"time_stamp" : "2022-02-5"
 		},
 		{
-			"movie_id" : 28,
+			"movie_id" : 453395, 
+			"release_id": 28,
 			"title" : "Doctor Strange in the Multiverse of Madness",
 			"phase" : "Phase Four",
 			"category_name" : "Science Fiction",
@@ -519,7 +547,8 @@
 			"time_stamp" : "2022-02-5"
 		},
 		{
-			"movie_id" : 29,
+			"movie_id" : 616037, 
+			"release_id": 29,
 			"title" : "Thor: Love and Thunder",
 			"phase" : "Phase Four",
 			"category_name" : "Science Fiction",
@@ -535,7 +564,8 @@
 			"time_stamp" : "2022-02-5"
 		},
 		{
-			"movie_id" : 30,
+			"movie_id" : 505642, 
+			"release_id": 30,
 			"title" : "Black Panther: Wakanda Forever",
 			"phase" : "Phase Four",
 			"category_name" : "Science Fiction",

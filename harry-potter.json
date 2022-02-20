@@ -2,6 +2,7 @@
 	"series" : [
 		{
 			"movie_id" : 671,
+			"release_id": 1,
 			"chronological_id" : 4,
 			"title" : "Harry Potter and the Philosopher's Stone",
 			"category_name" : "Fantasy",
@@ -18,6 +19,7 @@
 		},
 		{
 			"movie_id" : 672,
+			"release_id": 2,
 			"chronological_id" : 5,
 			"title" : "Harry Potter and the Chamber of Secrets",
 			"category_name" : "Fantasy",
@@ -34,6 +36,7 @@
 		},
 		{
 			"movie_id" : 673,
+			"release_id": 3,
 			"chronological_id" : 6,
 			"title" : "Harry Potter and the Prison of Azkaban",
 			"category_name" : "Fantasy",
@@ -50,6 +53,7 @@
 		},
 		{
 			"movie_id" : 674,
+			"release_id": 4,
 			"chronological_id" : 7,
 			"title" : "Harry Potter and the Goblet of Fire",
 			"category_name" : "Fantasy",
@@ -66,6 +70,7 @@
 		},
 		{
 			"movie_id" : 675,
+			"release_id": 5,
 			"chronological_id" : 8,
 			"title" : "Harry Potter and the Order of the Phoenix",
 			"category_name" : "Fantasy",
@@ -82,6 +87,7 @@
 		},
 		{
 			"movie_id" : 767,
+			"release_id": 6,
 			"chronological_id" : 9,
 			"title" : "Harry Potter and the Half-Blood Prince",
 			"category_name" : "Fantasy",
@@ -98,6 +104,7 @@
 		},
 		{
 			"movie_id" : 12444,
+			"release_id": 7,
 			"chronological_id" : 10,
 			"title" : "Harry Potter and the Deathly Hallows : Part I",
 			"category_name" : "Fantasy",
@@ -114,6 +121,7 @@
 		},
 		{
 			"movie_id" : 12445,
+			"release_id": 8,
 			"chronological_id" : 11,
 			"title" : "Harry Potter and the Deathly Hallows : Part II",
 			"category_name" : "Fantasy",
@@ -130,6 +138,7 @@
 		},
 		{
 			"movie_id" : 259316,
+			"release_id": 9,
 			"chronological_id" : 1,
 			"title" : "Fantastic Beasts and Where to Find Them",
 			"category_name" : "Fantasy",
@@ -146,6 +155,7 @@
 		},
 		{
 			"movie_id" : 338952,
+			"release_id": 10,
 			"chronological_id" : 2,
 			"title" : "Fantastic Beasts: The Crimes of Grindelwald",
 			"category_name" : "Fantasy",
@@ -162,6 +172,7 @@
 		},
 		{
 			"movie_id" : 338952,
+			"release_id": 11,
 			"chronological_id" : 3,
 			"title" : "Fantastic Beasts: The Secrets of Dumbledore",
 			"category_name" : "Fantasy",

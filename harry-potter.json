@@ -1,7 +1,7 @@
 {
 	"series" : [
 		{
-			"movie_id" : 1,
+			"movie_id" : 671,
 			"title" : "Harry Potter and the Philosopher's Stone",
 			"category_name" : "Fantasy",
 			"release_year" : 2001,
@@ -15,7 +15,7 @@
 			"time_stamp" : "2015-09-25"
 		},
 		{
-			"movie_id" : 2,
+			"movie_id" : 672,
 			"title" : "Harry Potter and the Chamber of Secrets",
 			"category_name" : "Fantasy",
 			"release_year" : 2002,
@@ -29,7 +29,7 @@
 			"time_stamp" : "2015-09-25"
 		},
 		{
-			"movie_id" : 3,
+			"movie_id" : 673,
 			"title" : "Harry Potter and the Prison of Azkaban",
 			"category_name" : "Fantasy",
 			"release_year" : 2004,
@@ -43,7 +43,7 @@
 			"time_stamp" : "2015-09-25"
 		},
 		{
-			"movie_id" : 4,
+			"movie_id" : 674,
 			"title" : "Harry Potter and the Goblet of Fire",
 			"category_name" : "Fantasy",
 			"release_year" : 2005,
@@ -57,7 +57,7 @@
 			"time_stamp" : "2015-09-25"
 		},
 		{
-			"movie_id" : 5,
+			"movie_id" : 675,
 			"title" : "Harry Potter and the Order of the Phoenix",
 			"category_name" : "Fantasy",
 			"release_year" : 2007,
@@ -71,7 +71,7 @@
 			"time_stamp" : "2015-09-25"
 		},
 		{
-			"movie_id" : 6,
+			"movie_id" : 767,
 			"title" : "Harry Potter and the Half-Blood Prince",
 			"category_name" : "Fantasy",
 			"release_year" : 2009,
@@ -85,7 +85,7 @@
 			"time_stamp" : "2015-09-25"
 		},
 		{
-			"movie_id" : 7,
+			"movie_id" : 12444,
 			"title" : "Harry Potter and the Deathly Hallows : Part I",
 			"category_name" : "Fantasy",
 			"release_year" : 2010,
@@ -99,7 +99,7 @@
 			"time_stamp" : "2015-09-25"
 		},
 		{
-			"movie_id" : 8,
+			"movie_id" : 12445,
 			"title" : "Harry Potter and the Deathly Hallows : Part II",
 			"category_name" : "Fantasy",
 			"release_year" : 2011,

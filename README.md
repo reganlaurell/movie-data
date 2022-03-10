@@ -4,3 +4,5 @@ Marvel Data - Original Source = https://github.com/dduril/Movies-JSON/blob/maste
 
 
 Harry Potter Data - Original Source = https://github.com/dduril/Movies-JSON/blob/master/harry-potter.json
+
+Star Wars Data - Original Source = https://github.com/dduril/Movies-JSON/blob/master/star-wars.json 

@@ -6,19 +6,10 @@
 			"chronological_id" : 3,
 			"title" : "Iron Man",
 			"phase" : "Phase One: Avengers Assembled",
-			"category_name" : "Action",
 			"release_year" : 2015,
 			"running_time" : 126,
 			"rating_name" : "PG-13",
-			"disc_format_name" : "Blu-ray",
-			"number_discs" : 1,
-			"viewing_format_name" : "Widescreen",
-			"aspect_ratio_name" : "2.35:1",
-			"status" : 1,
-			"release_date" : "May 2, 2008",
-			"budget" : "140,000,000",
-			"gross" : "318,298,180",
-			"time_stamp" : "2022-02-5"
+			"release_date" : "May 2, 2008"
 		},
 		{
 			"movie_id" : 1724, 
@@ -26,19 +17,10 @@
 			"chronological_id" : 5,
 			"title" : "The Incredible Hulk",
 			"phase" : "Phase One: Avengers Assembled",
-			"category_name" : "Action",
 			"release_year" : 2008,
 			"running_time" : 112,
 			"rating_name" : "PG-13",
-			"disc_format_name" : "DVD",
-			"number_discs" : 3,
-			"viewing_format_name" : "Widescreen",
-			"aspect_ratio_name" : "2.35:1",
-			"status" : 1,
-			"release_date" : "June 13, 2008",
-			"budget" : "150,000,000",
-			"gross" : "134,518,390",
-			"time_stamp" : "2022-02-5"
+			"release_date" : "June 13, 2008"
 		},
 		{
 			"movie_id" : 10138, 
@@ -46,19 +28,10 @@
 			"chronological_id" : 4,
 			"title" : "Iron Man 2",
 			"phase" : "Phase One: Avengers Assembled",
-			"category_name" : "Action",
 			"release_year" : 2015,
 			"running_time" : 124,
 			"rating_name" : "PG-13",
-			"disc_format_name" : "Blu-ray",
-			"number_discs" : 1,
-			"viewing_format_name" : "Widescreen",
-			"aspect_ratio_name" : "2.35:1",
-			"status" : 1,
-			"release_date" : "May 7, 2010",
-			"budget" : "200,000,000",
-			"gross" : "312,057,433",
-			"time_stamp" : "2022-02-5"
+			"release_date" : "May 7, 2010"
 		},
 		{
 			"movie_id" : 10195, 
@@ -66,19 +39,10 @@
 			"chronological_id" : 6,
 			"title" : "Thor",
 			"phase" : "Phase One: Avengers Assembled",
-			"category_name" : "Action",
 			"release_year" : 2011,
 			"running_time" : 115,
 			"rating_name" : "PG-13",
-			"disc_format_name" : "Blu-ray + DVD",
-			"number_discs" : 2,
-			"viewing_format_name" : "Widescreen",
-			"aspect_ratio_name" : "2.35:1",
-			"status" : 1,
-			"release_date" : "May 6, 2011",
-			"budget" : "150,000,000",
-			"gross" : "181,015,141",
-			"time_stamp" : "2022-02-5"
+			"release_date" : "May 6, 2011"
 		},
 		{
 			"movie_id" : 1771, 
@@ -86,19 +50,10 @@
 			"chronological_id" : 1,
 			"title" : "Captain America: The First Avenger",
 			"phase" : "Phase One: Avengers Assembled",
-			"category_name" : "Action",
 			"release_year" : 2011,
 			"running_time" : 124,
 			"rating_name" : "PG-13",
-			"disc_format_name" : "Blu-ray + DVD",
-			"number_discs" : 2,
-			"viewing_format_name" : "Widescreen",
-			"aspect_ratio_name" : "2.35:1",
-			"status" : 1,
-			"release_date" : "July 22, 2011",
-			"budget" : "140,000,000",
-			"gross" : "176,636,816",
-			"time_stamp" : "2022-02-5"
+			"release_date" : "July 22, 2011"
 			
 		},
 		{
@@ -107,19 +62,10 @@
 			"chronological_id" : 7,
 			"title" : "The Avengers",		
 			"phase" : "Phase One: Avengers Assembled",
-			"category_name" : "Science Fiction",
 			"release_year" : 2012,
 			"running_time" : 143,
 			"rating_name" : "PG-13",
-			"disc_format_name" : "Blu-ray + DVD",
-			"number_discs" : 2,
-			"viewing_format_name" : "Widescreen",
-			"aspect_ratio_name" : "1.85:1",
-			"status" : 1,
-			"release_date" : "May 4, 2012",
-			"budget" : "220,000,000",
-			"gross" : "623,279,547",
-			"time_stamp" : "2022-02-5"
+			"release_date" : "May 4, 2012"
 		},
 		{
 			"movie_id" : 68721, 
@@ -127,19 +73,10 @@
 			"chronological_id" : 9,
 			"title" : "Iron Man 3",
 			"phase" : "Phase Two",
-			"category_name" : "Action",
 			"release_year" : 2015,
 			"running_time" : 130,
 			"rating_name" : "PG-13",
-			"disc_format_name" : "Blu-ray + DVD",
-			"number_discs" : 2,
-			"viewing_format_name" : "Widescreen",
-			"aspect_ratio_name" : "2.35:1",
-			"status" : 1,
-			"release_date" : "May 3, 2013",
-			"budget" : "200,000,000",
-			"gross" : "408,992,272",
-			"time_stamp" : "2022-02-5"
+			"release_date" : "May 3, 2013"
 		},
 		{
 			"movie_id" : 76338, 
@@ -147,19 +84,10 @@
 			"chronological_id" : 8,
 			"title" : "Thor: The Dark World",
 			"phase" : "Phase Two",
-			"category_name" : "Science Fiction",
 			"release_year" : 2013,
 			"running_time" : 112,
 			"rating_name" : "PG-13",
-			"disc_format_name" : "Blu-ray",
-			"number_discs" : 2,
-			"viewing_format_name" : "Widescreen",
-			"aspect_ratio_name" : "2.35:1",
-			"status" : 1,
-			"release_date" : "November 8, 2013",
-			"budget" : "170,000,000",
-			"gross" : "206,360,018",
-			"time_stamp" : "2022-02-5"
+			"release_date" : "November 8, 2013"
 		},
 		{
 			"movie_id" : 100402, 
@@ -171,15 +99,7 @@
 			"release_year" : 2014,
 			"running_time" : 136,
 			"rating_name" : "PG-13",
-			"disc_format_name" : "Blu-ray",
-			"number_discs" : 1,
-			"viewing_format_name" : "Widescreen",
-			"aspect_ratio_name" : "2.35:1",
-			"status" : 1,
-			"release_date" : "April 4, 2014",
-			"budget" : "170,000,000",
-			"gross" : "259,746,958",
-			"time_stamp" : "2022-02-5"
+			"release_date" : "April 4, 2014"
 		},
 		{
 			"movie_id" : 118340, 
@@ -187,19 +107,10 @@
 			"chronological_id" : 11,
 			"title" : "Guardians of the Galaxy",
 			"phase" : "Phase Two",
-			"category_name" : "Science Fiction",
 			"release_year" : 2014,
 			"running_time" : 121,
 			"rating_name" : "PG-13",
-			"disc_format_name" : "Blu-ray",
-			"number_discs" : 1,
-			"viewing_format_name" : "Widescreen",
-			"aspect_ratio_name" : "2.35:1",
-			"status" : 1,
-			"release_date" : "August 1, 2014",
-			"budget" : "170,000,000",
-			"gross" : "333,130,696",
-			"time_stamp" : "2022-02-5"
+			"release_date" : "August 1, 2014"
 		},
 		{
 			"movie_id" : 99861, 
@@ -207,19 +118,10 @@
 			"chronological_id" : 13,
 			"title" : "Avengers: Age of Ultron",
 			"phase" : "Phase Two",
-			"category_name" : "Science Fiction",
 			"release_year" : 2015,
 			"running_time" : 141,
 			"rating_name" : "PG-13",
-			"disc_format_name" : "Blu-ray",
-			"number_discs" : 1,
-			"viewing_format_name" : "Widescreen",
-			"aspect_ratio_name" : "2.35:1",
-			"status" : 1,
-			"release_date" : "May 1, 2015",
-			"budget" : "250,000,000",
-			"gross" : "458,991,599",
-			"time_stamp" : "2022-02-5"
+			"release_date" : "May 1, 2015"
 		},
 		{
 			"movie_id" : 102899, 
@@ -227,19 +129,10 @@
 			"chronological_id" : 14,
 			"title" : "Ant-Man",
 			"phase" : "Phase Two",
-			"category_name" : "Science Fiction",
 			"release_year" : 2015,
 			"running_time" : 132,
 			"rating_name" : "PG-13",
-			"disc_format_name" : "Blu-ray",
-			"number_discs" : 1,
-			"viewing_format_name" : "Widescreen",
-			"aspect_ratio_name" : "1.85:1",
-			"status" : 1,
-			"release_date" : "July 17, 2015",
-			"budget" : "130,000,000",
-			"gross" : "179,017,481",
-			"time_stamp" : "2022-02-5"
+			"release_date" : "July 17, 2015"
 		},
 		{
 			"movie_id" : 271110, 
@@ -247,19 +140,10 @@
 			"chronological_id" : 15,
 			"title" : "Captain America: Civil War",
 			"phase" : "Phase Three",
-			"category_name" : "Science Fiction",
 			"release_year" : 2016,
 			"running_time" : 147,
 			"rating_name" : "PG-13",
-			"disc_format_name" : "Blu-ray",
-			"number_discs" : 1,
-			"viewing_format_name" : "Widescreen",
-			"aspect_ratio_name" : "2.39:1",
-			"status" : 1,
-			"release_date" : "May 6, 2016",
-			"budget" : "250,00,000",
-			"gross" : "408,084,349",
-			"time_stamp" : "2022-02-5"
+			"release_date" : "May 6, 2016"
 		},
 		{
 			"movie_id" : 284052, 
@@ -267,19 +151,10 @@
 			"chronological_id" : 20,
 			"title" : "Doctor Strange",
 			"phase" : "Phase Three",
-			"category_name" : "Science Fiction",
 			"release_year" : 2016,
 			"running_time" : 115,
 			"rating_name" : "PG-13",
-			"disc_format_name" : "Blu-ray",
-			"number_discs" : 1,
-			"viewing_format_name" : "Widescreen",
-			"aspect_ratio_name" : "2.39:1",
-			"status" : 1,
-			"release_date" : "November 4, 2016",
-			"budget" : "165,000,000",
-			"gross" : "232,641,920",
-			"time_stamp" : "2022-02-5"
+			"release_date" : "November 4, 2016"
 		},
 		{
 			"movie_id" : 283995, 
@@ -287,19 +162,10 @@
 			"chronological_id" : 12,
 			"title" : "Guardians of the Galaxy Vol. 2",
 			"phase" : "Phase Three",
-			"category_name" : "Science Fiction",
 			"release_year" : 2017,
 			"running_time" : 136,
 			"rating_name" : "PG-13",
-			"disc_format_name" : "Blu-ray",
-			"number_discs" : 1,
-			"viewing_format_name" : "Widescreen",
-			"aspect_ratio_name" : "2.39:1",
-			"status" : 1,
-			"release_date" : "May 5, 2017",
-			"budget" : "200,000,000",
-			"gross" : "389,213,281",
-			"time_stamp" : "2022-02-5"
+			"release_date" : "May 5, 2017"
 		},
 		{
 			"movie_id" : 315635, 
@@ -307,19 +173,10 @@
 			"chronological_id" : 17,
 			"title" : "Spider-Man: Homecoming",
 			"phase" : "Phase Three",
-			"category_name" : "Science Fiction",
 			"release_year" : 2017,
 			"running_time" : 133,
 			"rating_name" : "PG-13",
-			"disc_format_name" : "Blu-ray",
-			"number_discs" : 1,
-			"viewing_format_name" : "Widescreen",
-			"aspect_ratio_name" : "2.35:1",
-			"status" : 1,
-			"release_date" : "July 7, 2017",
-			"budget" : "175,000,000",
-			"gross" : "314,057,748",
-			"time_stamp" : "2022-02-5"
+			"release_date" : "July 7, 2017"
 		},
 		{
 			"movie_id" : 284053, 
@@ -327,19 +184,10 @@
 			"chronological_id" : 19,
 			"title" : "Thor: Ragnarok",
 			"phase" : "Phase Three",
-			"category_name" : "Science Fiction",
 			"release_year" : 2017,
 			"running_time" : 130,
 			"rating_name" : "PG-13",
-			"disc_format_name" : "Blu-ray",
-			"number_discs" : 1,
-			"viewing_format_name" : "Widescreen",
-			"aspect_ratio_name" : "2.35:1",
-			"status" : 1,
-			"release_date" : "November 3, 2017",
-			"budget" : "180,000,000",
-			"gross" : "tbd",
-			"time_stamp" : "2022-02-5"
+			"release_date" : "November 3, 2017"
 		},
 		{
 			"movie_id" : 284054, 
@@ -347,19 +195,10 @@
 			"chronological_id" : 18,
 			"title" : "Black Panther",
 			"phase" : "Phase Three",
-			"category_name" : "Science Fiction",
 			"release_year" : 2018,
 			"running_time" : 135,
 			"rating_name" : "PG-13",
-			"disc_format_name" : "Blu-ray",
-			"number_discs" : 1,
-			"viewing_format_name" : "Widescreen",
-			"aspect_ratio_name" : "2.39:1",
-			"status" : 1,
-			"release_date" : "February 16, 2018",
-			"budget" : "tbd",
-			"gross" : "tbd",
-			"time_stamp" : "2022-02-5"
+			"release_date" : "February 16, 2018"
 		},
 		{
 			"movie_id" : 299536, 
@@ -367,19 +206,10 @@
 			"chronological_id" : 22,
 			"title" : "Avengers: Infinity War",
 			"phase" : "Phase Three",
-			"category_name" : "Science Fiction",
 			"release_year" : 2018,
 			"running_time" : 149,
 			"rating_name" : "PG-13",
-			"disc_format_name" : "Blu-ray",
-			"number_discs" : 1,
-			"viewing_format_name" : "Widescreen",
-			"aspect_ratio_name" : "2.39:1",
-			"status" : 1,
-			"release_date" : "May 4, 2018",
-			"budget" : "tbd",
-			"gross" : "tbd",
-			"time_stamp" : "2022-02-5"
+			"release_date" : "May 4, 2018"
 		},
 		{
 			"movie_id" : 363088, 
@@ -387,19 +217,10 @@
 			"chronological_id" : 21,
 			"title" : "Ant-Man and the Wasp",
 			"phase" : "Phase Three",
-			"category_name" : "Science Fiction",
 			"release_year" : 2018,
 			"running_time" : 118,
 			"rating_name" : "PG-13",
-			"disc_format_name" : "Blu-ray",
-			"number_discs" : 1,
-			"viewing_format_name" : "Widescreen",
-			"aspect_ratio_name" : "2.39:1",
-			"status" : 1,
-			"release_date" : "July 6, 2018",
-			"budget" : "tbd",
-			"gross" : "tbd",
-			"time_stamp" : "2022-02-5"
+			"release_date" : "July 6, 2018"
 		},
 		{
 			"movie_id" : 299537, 
@@ -407,19 +228,10 @@
 			"chronological_id" : 2,
 			"title" : "Captain Marvel",
 			"phase" : "Phase Three",
-			"category_name" : "Science Fiction",
 			"release_year" : 2019,
 			"running_time" : 124,
 			"rating_name" : "PG-13",
-			"disc_format_name" : "Blu-ray",
-			"number_discs" : 1,
-			"viewing_format_name" : "Widescreen",
-			"aspect_ratio_name" : "2.39:1",
-			"status" : 1,
-			"release_date" : "March 8, 2019",
-			"budget" : "tbd",
-			"gross" : "tbd",
-			"time_stamp" : "2022-02-5"
+			"release_date" : "March 8, 2019"
 		}, 
 		{
 			"movie_id" : 299534, 
@@ -427,17 +239,10 @@
 			"chronological_id" : 23,
 			"title" : "Avengers: Endgame",
 			"phase" : "Phase Three",
-			"category_name" : "Action",
 			"release_year" : 2019,
 			"running_time" : 181,
 			"rating_name" : "PG-13",
-			"disc_format_name" : "Blu-ray",
-			"number_discs" : 1,
-			"viewing_format_name" : "Widescreen",
-			"aspect_ratio_name" : "2.39:1",
-			"status" : 1,
-			"release_date" : "April 26, 2019",
-			"time_stamp" : "2022-02-5"
+			"release_date" : "April 26, 2019"
 		},
 		{
 			"movie_id" : 429617, 
@@ -445,17 +250,10 @@
 			"chronological_id" : 24,
 			"title" : "Spider-Man: Far From Home",
 			"phase" : "Phase Three",
-			"category_name" : "Action",
 			"release_year" : 2019,
 			"running_time" : 129,
 			"rating_name" : "PG-13",
-			"disc_format_name" : "Blu-ray",
-			"number_discs" : 1,
-			"viewing_format_name" : "Widescreen",
-			"aspect_ratio_name" : "2.39:1",
-			"status" : 1,
-			"release_date" : "July 2, 2019",
-			"time_stamp" : "2022-02-5"
+			"release_date" : "July 2, 2019"
 		},
 		{
 			"movie_id" : 497698, 
@@ -463,17 +261,10 @@
 			"chronological_id" : 16,
 			"title" : "Black Widow",
 			"phase" : "Phase Four",
-			"category_name" : "Action",
 			"release_year" : 2021,
 			"running_time" : 134,
 			"rating_name" : "PG-13",
-			"disc_format_name" : "Blu-ray",
-			"number_discs" : 1,
-			"viewing_format_name" : "Widescreen",
-			"aspect_ratio_name" : "2.39:1",
-			"status" : 1,
-			"release_date" : "July 9, 2021",
-			"time_stamp" : "2022-02-5"
+			"release_date" : "July 9, 2021"
 		},
 		{
 			"movie_id" : 566525, 
@@ -481,17 +272,10 @@
 			"chronological_id" : 25,
 			"title" : "Shang-Chi and the Legend of the Ten Rings",
 			"phase" : "Phase Four",
-			"category_name" : "Science Fiction",
 			"release_year" : 2021,
 			"running_time" : 132,
 			"rating_name" : "PG-13",
-			"disc_format_name" : "Blu-ray",
-			"number_discs" : 1,
-			"viewing_format_name" : "Widescreen",
-			"aspect_ratio_name" : "2.39:1",
-			"status" : 1,
-			"release_date" : "September 3, 2021",
-			"time_stamp" : "2022-02-5"
+			"release_date" : "September 3, 2021"
 		},
 		{
 			"movie_id" : 524434, 
@@ -499,17 +283,11 @@
 			"chronological_id" : 26,
 			"title" : "Eternals",
 			"phase" : "Phase Four",
-			"category_name" : "Science Fiction",
 			"release_year" : 2021,
 			"running_time" : 156,
 			"rating_name" : "PG-13",
-			"disc_format_name" : "Blu-ray",
-			"number_discs" : 1,
-			"viewing_format_name" : "Widescreen",
-			"aspect_ratio_name" : "2.39:1",
-			"status" : 1,
-			"release_date" : "November 5, 2021",
-			"time_stamp" : "2022-02-5"
+
+			"release_date" : "November 5, 2021"
 		},
 		{
 			"movie_id" : 634649, 
@@ -517,68 +295,40 @@
 			"chronological_id" : 27,
 			"title" : "Spider-Man: No Way Home",
 			"phase" : "Phase Four",
-			"category_name" : "Action",
 			"release_year" : 2021,
 			"running_time" : 148,
 			"rating_name" : "PG-13",
-			"disc_format_name" : "Blu-ray",
-			"number_discs" : 1,
-			"viewing_format_name" : "Widescreen",
-			"aspect_ratio_name" : "2.39:1",
-			"status" : 1,
-			"release_date" : "December 17, 2021",
-			"time_stamp" : "2022-02-5"
+			"release_date" : "December 17, 2021"
 		},
 		{
 			"movie_id" : 453395, 
 			"release_id": 28,
 			"title" : "Doctor Strange in the Multiverse of Madness",
 			"phase" : "Phase Four",
-			"category_name" : "Science Fiction",
 			"release_year" : 2022,
 			"running_time" : 0,
 			"rating_name" : "PG-13",
-			"disc_format_name" : "Blu-ray",
-			"number_discs" : 1,
-			"viewing_format_name" : "Widescreen",
-			"aspect_ratio_name" : "2.39:1",
-			"status" : 1,
-			"release_date" : "May 6, 2022",
-			"time_stamp" : "2022-02-5"
+			"release_date" : "May 6, 2022"
 		},
 		{
 			"movie_id" : 616037, 
 			"release_id": 29,
 			"title" : "Thor: Love and Thunder",
 			"phase" : "Phase Four",
-			"category_name" : "Science Fiction",
 			"release_year" : 2022,
 			"running_time" : 0,
 			"rating_name" : "PG-13",
-			"disc_format_name" : "Blu-ray",
-			"number_discs" : 1,
-			"viewing_format_name" : "Widescreen",
-			"aspect_ratio_name" : "2.39:1",
-			"status" : 1,
-			"release_date" : "July 8, 2022",
-			"time_stamp" : "2022-02-5"
+			"release_date" : "July 8, 2022"
 		},
 		{
 			"movie_id" : 505642, 
 			"release_id": 30,
 			"title" : "Black Panther: Wakanda Forever",
 			"phase" : "Phase Four",
-			"category_name" : "Science Fiction",
 			"release_year" : 2022,
 			"running_time" : 0,
 			"rating_name" : "PG-13",
-			"disc_format_name" : "Blu-ray",
-			"number_discs" : 1,
-			"viewing_format_name" : "Widescreen",
-			"aspect_ratio_name" : "2.39:1",
-			"status" : 1,
-			"release_date" : "November 11, 2022",
-			"time_stamp" : "2022-02-5"
+			"release_date" : "November 11, 2022"
 		}
 	]
 }

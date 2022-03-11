@@ -4,7 +4,7 @@
 			"movie_id" : 1893,
 			"release_id" : 4,
 			"chronological_id" : 1,
-			"title" : "Episode I: The Phantom Menace",
+			"title" : "Episode I - The Phantom Menace",
 			"category_name" : "Science Fiction",
 			"release_year" : 1999,
 			"running_time" : 133,
@@ -14,6 +14,7 @@
 			"viewing_format_name" : "Widescreen",
 			"aspect_ratio_name" : "2.35:1",
 			"status" : 1,
+			"release_date" : "May 19, 1999",
 			"time_stamp" : "2022-03-9"
 		},
 		{
@@ -30,6 +31,7 @@
 			"viewing_format_name" : "Widescreen",
 			"aspect_ratio_name" : "2.35:1",
 			"status" : 1,
+			"release_date" : "May 15, 2002",
 			"time_stamp" : "2022-03-9"
 		},
 		{
@@ -46,6 +48,7 @@
 			"viewing_format_name" : "Widescreen",
 			"aspect_ratio_name" : "2.35:1",
 			"status" : 1,
+			"release_date" : "May 5, 2005",
 			"time_stamp" : "2022-03-9"
 		},
 		{
@@ -62,6 +65,7 @@
 			"viewing_format_name" : "Widescreen",
 			"aspect_ratio_name" : "2.35:1",
 			"status" : 1,
+			"release_date" : "May 25, 1977",
 			"time_stamp" : "2022-03-9"
 		},
 		{
@@ -78,6 +82,7 @@
 			"viewing_format_name" : "Widescreen",
 			"aspect_ratio_name" : "2.35:1",
 			"status" : 1,
+			"release_date" : "May 20, 1980",
 			"time_stamp" : "2022-03-9"
 		},
 		{
@@ -94,6 +99,7 @@
 			"viewing_format_name" : "Widescreen",
 			"aspect_ratio_name" : "2.35:1",
 			"status" : 1,
+			"release_date" : "May 25, 1983",
 			"time_stamp" : "2022-03-9"
 		},
 		{
@@ -110,6 +116,7 @@
 			"viewing_format_name" : "Widescreen",
 			"aspect_ratio_name" : "2.35:1",
 			"status" : 1,
+			"release_date" : "December 15, 2015",
 			"time_stamp" : "2022-03-9"
 		},
 		{
@@ -126,6 +133,7 @@
 			"viewing_format_name" : "Widescreen",
 			"aspect_ratio_name" : "2.35:1",
 			"status" : 1,
+			"release_date" : "December 14, 2016",
 			"time_stamp" : "2016-08-17"
 		},
 		{
@@ -142,6 +150,7 @@
 			"viewing_format_name" : "Widescreen",
 			"aspect_ratio_name" : "2.35:1",
 			"status" : 1,
+			"release_date" : "December 13, 2017",
 			"time_stamp" : "2018-01-09"
 		},
 		{
@@ -158,6 +167,7 @@
 			"viewing_format_name" : "Widescreen",
 			"aspect_ratio_name" : "2.35:1",
 			"status" : 1,
+			"release_date" : "May 15, 2018",
 			"time_stamp" : "2022-03-9"
 		},
 		{
@@ -174,6 +184,7 @@
 			"viewing_format_name" : "Widescreen",
 			"aspect_ratio_name" : "2.35:1",
 			"status" : 1,
+			"release_date" : "August 5, 2008",
 			"time_stamp" : "2022-03-9"
 		},
 		{
@@ -190,6 +201,7 @@
 			"viewing_format_name" : "Widescreen",
 			"aspect_ratio_name" : "2.35:1",
 			"status" : 1,
+			"release_date" : "December 18, 2019",
 			"time_stamp" : "2022-03-9"
 		}
     ]

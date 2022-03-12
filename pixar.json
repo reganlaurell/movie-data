@@ -1,0 +1,263 @@
+{
+	"series" : [
+        {
+			"movie_id" : 862,
+			"release_id": 1,
+			"chronological_id" : 6,
+			"title" : "Toy Story",
+			"release_year" : 1995,
+			"running_time" : 81,
+			"rating_name" : "G",
+			"release_date" : "October 30,"
+		},
+        {
+			"movie_id" : 9487,
+			"release_id": 2,
+			"chronological_id" : 22,
+			"title" : "A Bug's Life",
+			"release_year" : 1998,
+			"running_time" : 95,
+			"rating_name" : "G",
+			"release_date" : "November 25, 1998"
+		},
+		{
+			"movie_id" : 863,
+			"release_id": 3,
+			"chronological_id" : 7,
+			"title" : "Toy Story 2",
+			"release_year" : 1999,
+			"running_time" : 92,
+			"rating_name" : "G",
+			"release_date" : "October 30, 1999"
+		},
+        {
+			"movie_id" : 585,
+			"release_id": 4,
+			"chronological_id" : 25,
+			"title" : "Monsters, Inc.",
+			"release_year" : 2001,
+			"running_time" : 92,
+			"rating_name" : "G",
+			"release_date" : "November 1, 2001"
+		},
+        {
+			"movie_id" : 12,
+			"release_id": 5,
+			"chronological_id" : 9,
+			"title" : "Finding Nemo",
+			"release_year" : 2003,
+			"running_time" : 100,
+			"rating_name" : "G",
+			"release_date" : "May 20, 2003"
+		},
+        {
+			"movie_id" : 9806,
+			"release_id": 6,
+			"chronological_id" : 3,
+			"title" : "The Incredibles",
+			"release_year" : 2004,
+			"running_time" : 115,
+			"rating_name" : "PG",
+			"release_date" : "November 5, 2004"
+		},
+        {
+			"movie_id" : 920,
+			"release_id": 7,
+			"chronological_id" : 18,
+			"title" : "Cars",
+			"release_year" : 2006,
+			"running_time" : 117,
+			"rating_name" : "G",
+			"release_date" : "June 8, 2006"
+		},
+        {
+			"movie_id" : 2062,
+			"release_id": 8,
+			"chronological_id" : 11,
+			"title" : "Ratatouille",
+			"release_year" : 2007,
+			"running_time" : 111,
+			"rating_name" : "G",
+			"release_date" : "June 22, 2007"
+		},
+        {
+			"movie_id" : 10681,
+			"release_id": 9,
+			"chronological_id" : 21,
+			"title" : "WALL-E",
+			"release_year" : 2008,
+			"running_time" : 98,
+			"rating_name" : "G",
+			"release_date" : "June 22, 2008"
+		},
+        {
+			"movie_id" : 14160,
+			"release_id": 10,
+			"chronological_id" : 14,
+			"title" : "Up",
+			"release_year" : 2009,
+			"running_time" : 96,
+			"rating_name" : "PG",
+			"release_date" : "May 13, 2009"
+		},
+        {
+			"movie_id" : 10193,
+			"release_id": 11,
+			"chronological_id" : 12,
+			"title" : "Toy Story 3",
+			"release_year" : 2010,
+			"running_time" : 103,
+			"rating_name" : "G",
+			"release_date" : "June 16, 2010"
+		},
+        {
+			"movie_id" : 49013,
+			"release_id": 12,
+			"chronological_id" : 19,
+			"title" : "Cars 2",
+			"release_year" : 2011,
+			"running_time" : 106,
+			"rating_name" : "G",
+			"release_date" : "June 11, 2011"
+		},
+        {
+			"movie_id" : 62177,
+			"release_id": 13,
+			"chronological_id" : 2,
+			"title" : "Brave",
+			"release_year" : 2012,
+			"running_time" : 93,
+			"rating_name" : "PG",
+			"release_date" : "June 21, 2012"
+		},
+        {
+			"movie_id" : 62211,
+			"release_id": 14,
+			"chronological_id" : 24,
+			"title" : "Monsters University",
+			"release_year" : 2013,
+			"running_time" : 104,
+			"rating_name" : "G",
+			"release_date" : "June 20, 2013"
+		},
+        {
+			"movie_id" : 150540,
+			"release_id": 15,
+			"chronological_id" : 15,
+			"title" : "Inside Out",
+			"release_year" : 2015,
+			"running_time" : 94,
+			"rating_name" : "PG",
+			"release_date" : "June 9, 2015"
+		},
+        {
+			"movie_id" : 105864,
+			"release_id": 16,
+			"chronological_id" : 1,
+			"title" : "The Good Dinosaur",
+			"release_year" : 2015,
+			"running_time" : 93,
+			"rating_name" : "PG",
+			"release_date" : "November 14, 2015"
+		},
+        {
+			"movie_id" : 127380,
+			"release_id": 16,
+			"chronological_id" : 10,
+			"title" : "Finding Dory",
+			"release_year" : 2016,
+			"running_time" : 97,
+			"rating_name" : "PG",
+			"release_date" : "June 16, 2016"
+		},
+        {
+			"movie_id" : 260514,
+			"release_id": 17,
+			"chronological_id" : 20,
+			"title" : "Cars 3",
+			"release_year" : 2017,
+			"running_time" : 109,
+			"rating_name" : "G",
+			"release_date" : "June 15, 2017"
+		},
+        {
+			"movie_id" : 354912,
+			"release_id": 18,
+			"chronological_id" : 16,
+			"title" : "Coco",
+			"release_year" : 2017,
+			"running_time" : 109,
+			"rating_name" : "PG",
+			"release_date" : "October 27, 2017"
+		},
+        {
+			"movie_id" : 260513,
+			"release_id": 19,
+			"chronological_id" : 5,
+			"title" : "Incredibles 2",
+			"release_year" : 2018,
+			"running_time" : 126,
+			"rating_name" : "G",
+			"release_date" : "June 14, 2018"
+		},
+        {
+			"movie_id" : 301528,
+			"release_id": 20,
+			"chronological_id" : 13,
+			"title" : "Toy Story 4",
+			"release_year" : 2019,
+			"running_time" : 100,
+			"rating_name" : "G",
+			"release_date" : "June 21, 2019"
+		},
+        {
+			"movie_id" : 508439,
+			"release_id": 21,
+			"chronological_id" : 23,
+			"title" : "Onward",
+			"release_year" : 2020,
+			"running_time" : 103,
+			"rating_name" : "PG",
+			"release_date" : "March 6, 2020"
+		},
+        {
+			"movie_id" : 508442,
+			"release_id": 22,
+			"chronological_id" : 17,
+			"title" : "Soul",
+			"release_year" : 2020,
+			"running_time" : 101,
+			"rating_name" : "PG",
+			"release_date" : "December 25, 2020"
+		},
+        {
+			"movie_id" : 508943,
+			"release_id": 23,
+			"chronological_id" : 4,
+			"title" : "Luca",
+			"release_year" : 2021,
+			"running_time" : 95,
+			"rating_name" : "PG",
+			"release_date" : "June 17, 2021"
+		},
+        {
+			"movie_id" : 508947,
+			"release_id": 24,
+			"chronological_id" : 8,
+			"title" : "Turning Red",
+			"release_year" : 2022,
+			"running_time" : 100,
+			"rating_name" : "PG",
+			"release_date" : "March 10, 2022"
+		},
+        {
+			"movie_id" : 718789,
+			"release_id": 25,
+			"title" : "Lightyear",
+			"release_year" : 2022,
+			"running_time" : 0,
+			"rating_name" : "Not Yet Rated",
+			"release_date" : "June 16, 2022"
+		}
+    ]
+}
